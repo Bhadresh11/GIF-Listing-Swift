@@ -1,0 +1,17 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "80fd8d955e4b7bb5deed44d9c1b82070cfe70628ca2b3b2550eacfb70fa1f087"
+build_start_time: [1673601085, 36386966]
+build_end_time: [1673601091, 461513996]
+inputs:
+  "/Users/ravi/Documents/iOSDemos/iOS Demos/Giphy/Giphy/AppDelegate.swift": [1673601047, 467061519]
+  "/Users/ravi/Documents/iOSDemos/iOS Demos/Giphy/Giphy/CollectionCell/SwiftyGiphyCollectionViewCell.swift": [1673601047, 468207359]
+  "/Users/ravi/Documents/iOSDemos/iOS Demos/Giphy/Giphy/CollectionCell/SwiftyGiphyGridLayout.swift": [1673601047, 468414306]
+  "/Users/ravi/Documents/iOSDemos/iOS Demos/Giphy/Giphy/CollectionCell/SwiftyGiphyListLayout.swift": [1673601047, 468477725]
+  "/Users/ravi/Documents/iOSDemos/iOS Demos/Giphy/Giphy/GIphyModel.swift": [1673601047, 468565225]
+  "/Users/ravi/Documents/iOSDemos/iOS Demos/Giphy/Giphy/Helper.swift": [1673601047, 468637943]
+  "/Users/ravi/Documents/iOSDemos/iOS Demos/Giphy/Giphy/Library/SwiftyGiphyAPI.swift": [1673601047, 468833684]
+  "/Users/ravi/Documents/iOSDemos/iOS Demos/Giphy/Giphy/SceneDelegate.swift": [1673601047, 468902111]
+  "/Users/ravi/Documents/iOSDemos/iOS Demos/Giphy/Giphy/SwiftyGiphyViewController.swift": [1673601047, 469039916]
+  "/Users/ravi/Documents/iOSDemos/iOS Demos/Giphy/Giphy/UIView.swift": [1673601047, 469246864]
+  "/Users/ravi/Documents/iOSDemos/iOS Demos/Giphy/Giphy/UserDefaults+Storage.swift": [1673601047, 469322204]
+  "/Users/ravi/Documents/iOSDemos/iOS Demos/Giphy/Giphy/ViewController.swift": [1673601047, 469386577]

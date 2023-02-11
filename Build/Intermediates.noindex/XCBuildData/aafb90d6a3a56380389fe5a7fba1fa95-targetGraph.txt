@@ -1,0 +1,7 @@
+Target dependency graph (3 targets)
+SDWebImage in Pods, no dependencies
+Pods-Giphy in Pods, depends on:
+SDWebImage in Pods (explicit)
+Giphy in Giphy, depends on:
+Pods-Giphy in Pods (implicit dependency via file 'Pods_Giphy.framework' in build phase 'Link Binary')
+SDWebImage in Pods (implicit dependency via options '-framework SDWebImage' in build setting 'OTHER_LDFLAGS')
